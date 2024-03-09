@@ -1,0 +1,23 @@
+html{
+  background-color: #121212;
+  color: white;
+}
+
+.main-div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.row{
+  display: flex;
+  gap: 10px;
+}
+
+.column{
+  width: 60px;
+  height: 60px;
+  border: 1px white solid;
+  margin-bottom: 10px;
+}
